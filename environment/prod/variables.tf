@@ -18,7 +18,8 @@ variable "aws_count" {
 
 variable "env" {
     type = string
-    default = prod
+    default = "prod"
   
 
 }
+
